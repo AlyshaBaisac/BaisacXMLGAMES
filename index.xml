@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+
+<Games>
+    <types_of_Games>
+        <Shooting_Games>
+            <First_person_shooter>
+                <Genre>
+                    <Action>
+                        <Game_title> Resident Evil: Village </Game_title>
+                        <Developer> CAPCOM Co., Ltd. </Developer>
+                        <Publisher> CAPCOM Co., Ltd. </Publisher> 
+                        <Release_Date> 7 May, 2021 </Release_Date> 
+                        <Related_Tags> Survival Horror, Single player <Related_Tags>
+                    </Action>
+                    <Adventure>
+                        <Game_title> Scorn </Game_title>
+                        <Developer> Ebb Software </Developer>
+                        <Publisher> Kepler Interactive </Publisher> 
+                        <Release_Date> 14 Oct, 2022 </Release_Date> 
+                        <Related_Tags> Gore, Horror, Puzzle <Related_Tags>
+                    </Adventure>
+                </Genre>
+            </First_person_shooter>
+        </Shooting_Games> 
+    </types_of_Games>
+</Games>
