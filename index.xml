@@ -2,26 +2,72 @@
 
 
 <Games>
-    <types_of_Games>
+    <Type id = 1>
         <Shooting_Games>
             <First_person_shooter>
                 <Genre>
                     <Action>
-                        <Game_title> Resident Evil: Village </Game_title>
+                        <title> Resident Evil: Village </title>
                         <Developer> CAPCOM Co., Ltd. </Developer>
                         <Publisher> CAPCOM Co., Ltd. </Publisher> 
                         <Release_Date> 7 May, 2021 </Release_Date> 
                         <Related_Tags> Survival Horror, Single player <Related_Tags>
                     </Action>
                     <Adventure>
-                        <Game_title> Scorn </Game_title>
+                        <title> Scorn </title>
                         <Developer> Ebb Software </Developer>
                         <Publisher> Kepler Interactive </Publisher> 
                         <Release_Date> 14 Oct, 2022 </Release_Date> 
                         <Related_Tags> Gore, Horror, Puzzle <Related_Tags>
-                    </Adventure>
+                    </Adventure>   
                 </Genre>
             </First_person_shooter>
+            <third_person_shooter>
+                <Genre>
+                    <Action>
+                        <title> Days Gone </title>
+                        <Developer> Bend Studio</Developer>
+                        <Publisher> PlayStation PC LLC </Publisher> 
+                        <Release_Date> 18 May, 2021 </Release_Date> 
+                        <Related_Tags> Survival Horror, Single player <Related_Tags>
+                        <Franchise>  PlayStation Studios </Franchise>
+                    </Action>
+                    <Adventure>
+                    </Adventure>   
+                </Genre>
+            </third_person_shooter>
         </Shooting_Games> 
-    </types_of_Games>
+    </Type>
+    <Type id = 2>
+        <Role-playing>
+            <RPG>
+                <Genre>
+                    <Action>
+                        <title> ELDEN RING </title>
+                        <Developer> FromSoftware Inc. </Developer>
+                        <Publisher> FromSoftware Inc., Bandai Namco Entertainment </Publisher> 
+                        <Release_Date> 25 Feb, 2022 </Release_Date> 
+                        <Related_Tags> Dark Fantasy, Open World, Soul-like <Related_Tags>
+                        <Franchise> Bandai Namco Entertainment </Franchise>
+                    </Action>
+                    <Adventure>
+                        <title> Horizon Zero Dawn </title>
+                        <Developer> Guerrilla </Developer>
+                        <Publisher> PlayStation PC LLC </Publisher> 
+                        <Release_Date> 7 Aug, 2020 </Release_Date> 
+                        <Related_Tags> Open World, Female Protagonist, RPG <Related_Tags>
+                        <Franchise> PlayStation Studios </Franchise>
+                    </Adventure>
+                    <Indie>
+                        <title> Undertale </title>
+                        <Developer> tobyfox</Developer>
+                        <Publisher> tobyfox </Publisher> 
+                        <Release_Date> 15 Sep, 2015 </Release_Date> 
+                        <Related_Tags> Choices Matter, 2D <Related_Tags>
+                    </Indie>
+                </Genre>
+            </RPG>
+            
+        </Role-playing>
+    </Type>
 </Games>
