@@ -2,7 +2,7 @@
 
 
 <Games>
-    <TypeOfGame>
+    <TypeOfGame id = 1>
         <Shooting_Games>
             <First_person_shooter>
                 <Genre>
@@ -35,8 +35,8 @@
                 </Genre>
             </third_person_shooter>
         </Shooting_Games> 
-    </Type>
-    <Type id = 2>
+    </TypeOfGame>
+    <TypeOfGame id = 2>
         <Role-playing>
             <RPG>
                 <Genre>
@@ -67,7 +67,7 @@
             </RPG>    
         </Role-playing>
     </TypeOfGame>
-    <TypeOfGame>
+    <TypeOfGame id = 3>
         <MOBA>
             <LeagueOfLeagends>
                 <Lanes>
@@ -86,10 +86,25 @@
                             <Resource> Mana </Resource> 
                             <AdaptiveType> Physical </AdaptiveType> 
                         </Class>
+                        <Class Type = "Diver">
+                            <Name> Irelia </Name>
+                            <Legacy> Fighter, Assassin </Legacy>
+                            <RangeType> Melee </RangeType>
+                            <Resource> Mana </Resource> 
+                            <AdaptiveType> Physical </AdaptiveType> 
+                        </Class>
                     </Top>
+                    <Bottom>
+                       <Class Type = "Marksman">
+                            <Name> Varus </Name>
+                            <Legacy> Marksman, Mage </Legacy>
+                            <RangeType> Ranged </RangeType>
+                            <Resource> Mana </Resource> 
+                            <AdaptiveType> Physical </AdaptiveType> 
+                        </Class> 
+                    </Bottom>
                 </Lanes>
             </LeagueOfLeagends>    
         </MOBA>
     </TypeOfGame>
-
 </Games>
