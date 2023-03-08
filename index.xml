@@ -107,4 +107,32 @@
             </LeagueOfLeagends>    
         </MOBA>
     </TypeOfGame>
+    <TypeOfGame id = 4>
+        <PuzzlersAndParty>
+            <Party>
+                <Genre>
+                    <Strategy>
+                        <title> The Jackbox Party Pack </title>
+                        <Developer> Jackbox Games, Inc. </Developer>
+                        <Publisher> Jackbox Games, Inc. </Publisher> 
+                        <Release_Date> 27 Nov, 2014 </Release_Date> 
+                        <Related_Tags> Trivia, Party, Funny, Local Multiplayer <Related_Tags>
+                        <Franchise> Jackbox Games </Franchise>
+                    </Strategy>
+                </Genre>
+            </Party>  
+            <Puzzler>
+                <Genre>
+                    <Action>
+                        <title> Portal 2 </title>
+                        <Developer>  Valve </Developer>
+                        <Publisher>  Valve </Publisher> 
+                        <Release_Date> 19 Apr, 2011 </Release_Date> 
+                        <Related_Tags> platformer, puzzle, dark humor <Related_Tags>
+                    </Action>
+                </Genre>
+            </Puzzler>  
+        </PuzzlersAndParty>
+    </TypeOfGame>
+
 </Games>
