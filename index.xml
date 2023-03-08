@@ -2,7 +2,7 @@
 
 
 <Games>
-    <Type id = 1>
+    <TypeOfGame>
         <Shooting_Games>
             <First_person_shooter>
                 <Genre>
@@ -29,11 +29,9 @@
                         <Developer> Bend Studio</Developer>
                         <Publisher> PlayStation PC LLC </Publisher> 
                         <Release_Date> 18 May, 2021 </Release_Date> 
-                        <Related_Tags> Survival Horror, Single player <Related_Tags>
+                        <Related_Tags> Zombies, Single player, Survival <Related_Tags>
                         <Franchise>  PlayStation Studios </Franchise>
                     </Action>
-                    <Adventure>
-                    </Adventure>   
                 </Genre>
             </third_person_shooter>
         </Shooting_Games> 
@@ -66,8 +64,32 @@
                         <Related_Tags> Choices Matter, 2D <Related_Tags>
                     </Indie>
                 </Genre>
-            </RPG>
-            
+            </RPG>    
         </Role-playing>
-    </Type>
+    </TypeOfGame>
+    <TypeOfGame>
+        <MOBA>
+            <LeagueOfLeagends>
+                <Lanes>
+                    <Top>
+                        <Class Type = "Juggernaut">
+                            <Name> Nasus </Name>
+                            <Legacy> Fighter, Tank </Legacy>
+                            <RangeType> Melee </RangeType>
+                            <Resource> Mana </Resource> 
+                            <AdaptiveType> Physical </AdaptiveType> 
+                        </Class>
+                        <Class Type = "Skirmisher">
+                            <Name> Fiora </Name>
+                            <Legacy> Fighter, Assassin </Legacy>
+                            <RangeType> Melee </RangeType>
+                            <Resource> Mana </Resource> 
+                            <AdaptiveType> Physical </AdaptiveType> 
+                        </Class>
+                    </Top>
+                </Lanes>
+            </LeagueOfLeagends>    
+        </MOBA>
+    </TypeOfGame>
+
 </Games>
