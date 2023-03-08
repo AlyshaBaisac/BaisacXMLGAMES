@@ -134,5 +134,28 @@
             </Puzzler>  
         </PuzzlersAndParty>
     </TypeOfGame>
+    <TypeOfGame id = 5 > 
+        <Platformer>
+            <2D>
+                <Genre>
+                    <Horror>
+                        <title> LIMBO </title>
+                        <Developer>  Playdead </Developer>
+                        <Publisher>  Playdead </Publisher> 
+                        <Release_Date> 3 Aug, 2011 </Release_Date> 
+                        <Related_Tags> platformer, puzzle, Indie <Related_Tags>
+                    </Horror>
+                    <Adventure>
+                        <title> Little Nightmares </title>
+                        <Developer> Tarsier Studios </Developer>
+                        <Publisher> BANDAI NAMCO Entertainment </Publisher> 
+                        <Release_Date> 11 Feb, 2021 </Release_Date> 
+                        <Related_Tags> singleplayer, dark, Puzzle <Related_Tags>
+                        <Franchise>  Little Nightmares </Franchise>
+                    </Adventure>
+                </Genre>
+            </2D>    
+        </Platformer>
+    </TypeOfGame>
 
 </Games>
