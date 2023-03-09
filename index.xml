@@ -109,7 +109,14 @@
                             <RangeType> Ranged </RangeType>
                             <Resource> Mana </Resource> 
                             <AdaptiveType> Physical </AdaptiveType> 
-                        </Class> 
+                        </Class>
+                        <Class Type = "Warden">
+                            <Name> Tahm Kench </Name>
+                            <Legacy> Support, Tank </Legacy>
+                            <RangeType> Melee </RangeType>
+                            <Resource> Mana </Resource> 
+                            <AdaptiveType> Magic </AdaptiveType> 
+                        </Class>  
                     </Bottom>
                 </Lanes>
             </LeagueOfLeagends> 
@@ -150,7 +157,7 @@
             </Puzzler>  
         </PuzzlersAndParty>
     </TypeOfGame>
-    <TypeOfGame id = 5 > 
+    <TypeOfGame cathegory = 5 > 
         <Platformer>
             <2D>
                 <Genre>
