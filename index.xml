@@ -2,7 +2,7 @@
 
 
 <Games>
-    <TypeOfGame id = 1>
+    <TypeOfGame cathegory = 1>
         <Shooting_Games>
             <First_person_shooter>
                 <Genre>
@@ -44,7 +44,7 @@
             </third_person_shooter>
         </Shooting_Games> 
     </TypeOfGame>
-    <TypeOfGame id = 2>
+    <TypeOfGame cathegory = 2>
         <Role-playing>
             <RPG>
                 <Genre>
@@ -75,7 +75,7 @@
             </RPG>    
         </Role-playing>
     </TypeOfGame>
-    <TypeOfGame id = 3>
+    <TypeOfGame cathegory = 3>
         <MOBA>
             <LeagueOfLeagends>
                 <Lanes>
@@ -115,7 +115,7 @@
             </LeagueOfLeagends> 
         </MOBA>
     </TypeOfGame>
-    <TypeOfGame id = 4>
+    <TypeOfGame cathegory = 4>
         <PuzzlersAndParty>
             <Party>
                 <Genre>
@@ -142,7 +142,7 @@
             </Puzzler>  
         </PuzzlersAndParty>
     </TypeOfGame>
-    <TypeOfGame id = 5 > 
+    <TypeOfGame cathegory = 5 > 
         <Platformer>
             <2D>
                 <Genre>
