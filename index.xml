@@ -24,13 +24,21 @@
             </First_person_shooter>
             <third_person_shooter>
                 <Genre>
-                    <Action>
+                    <Action tag = Zombie>
                         <title> Days Gone </title>
                         <Developer> Bend Studio</Developer>
                         <Publisher> PlayStation PC LLC </Publisher> 
                         <Release_Date> 18 May, 2021 </Release_Date> 
                         <Related_Tags> Zombies, Single player, Survival <Related_Tags>
                         <Franchise>  PlayStation Studios </Franchise>
+                    </Action>
+                    <Action tag = Stealth>
+                        <title> Hitman 2 </title>
+                        <Developer> Io-Interactive A/S </Developer>
+                        <Publisher> Io-Interactive A/S </Publisher> 
+                        <Release_Date> 1 Oct, 2002 </Release_Date> 
+                        <Related_Tags> Stealth, third player, Assassin <Related_Tags>
+                        <Franchise> Stealth </Franchise>
                     </Action>
                 </Genre>
             </third_person_shooter>
@@ -104,7 +112,7 @@
                         </Class> 
                     </Bottom>
                 </Lanes>
-            </LeagueOfLeagends>    
+            </LeagueOfLeagends> 
         </MOBA>
     </TypeOfGame>
     <TypeOfGame id = 4>
@@ -157,5 +165,4 @@
             </2D>    
         </Platformer>
     </TypeOfGame>
-
 </Games>
