@@ -2,7 +2,7 @@
 
 
 <Games>
-    <TypeOfGame id = 1>
+    <TypeOfGame cathegory = 1>
         <Shooting_Games>
             <First_person_shooter>
                 <Genre>
@@ -44,7 +44,7 @@
             </third_person_shooter>
         </Shooting_Games> 
     </TypeOfGame>
-    <TypeOfGame id = 2>
+    <TypeOfGame cathegory = 2>
         <Role-playing>
             <RPG>
                 <Genre>
@@ -75,7 +75,7 @@
             </RPG>    
         </Role-playing>
     </TypeOfGame>
-    <TypeOfGame id = 3>
+    <TypeOfGame cathegory = 3>
         <MOBA>
             <LeagueOfLeagends>
                 <Lanes>
@@ -115,7 +115,7 @@
             </LeagueOfLeagends> 
         </MOBA>
     </TypeOfGame>
-    <TypeOfGame id = 4>
+    <TypeOfGame cathegory = 4>
         <PuzzlersAndParty>
             <Party>
                 <Genre>
@@ -133,16 +133,24 @@
                 <Genre>
                     <Action>
                         <title> Portal 2 </title>
-                        <Developer>  Valve </Developer>
-                        <Publisher>  Valve </Publisher> 
+                        <Developer> Valve </Developer>
+                        <Publisher> Valve </Publisher> 
                         <Release_Date> 19 Apr, 2011 </Release_Date> 
                         <Related_Tags> platformer, puzzle, dark humor <Related_Tags>
                     </Action>
+                    <Indie>
+                        <title> Unpacking </title>
+                        <Developer> Witch Beam </Developer>
+                        <Publisher> Humble Games </Publisher> 
+                        <Release_Date> 2 Nov, 2021 </Release_Date> 
+                        <Related_Tags> casual, Pixel Graphic, relaxing <Related_Tags>
+                        <Franchise> Humble Games </Franchise>
+                    </Indie>
                 </Genre>
             </Puzzler>  
         </PuzzlersAndParty>
     </TypeOfGame>
-    <TypeOfGame id = 5 > 
+    <TypeOfGame cathegory = 5> 
         <Platformer>
             <2D>
                 <Genre>
