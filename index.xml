@@ -150,7 +150,7 @@
             </Puzzler>  
         </PuzzlersAndParty>
     </TypeOfGame>
-    <TypeOfGame cathegory = 5> 
+    <TypeOfGame id = 5 > 
         <Platformer>
             <2D>
                 <Genre>
