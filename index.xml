@@ -133,16 +133,24 @@
                 <Genre>
                     <Action>
                         <title> Portal 2 </title>
-                        <Developer>  Valve </Developer>
-                        <Publisher>  Valve </Publisher> 
+                        <Developer> Valve </Developer>
+                        <Publisher> Valve </Publisher> 
                         <Release_Date> 19 Apr, 2011 </Release_Date> 
                         <Related_Tags> platformer, puzzle, dark humor <Related_Tags>
                     </Action>
+                    <Indie>
+                        <title> Unpacking </title>
+                        <Developer> Witch Beam </Developer>
+                        <Publisher> Humble Games </Publisher> 
+                        <Release_Date> 2 Nov, 2021 </Release_Date> 
+                        <Related_Tags> casual, Pixel Graphic, relaxing <Related_Tags>
+                        <Franchise> Humble Games </Franchise>
+                    </Indie>
                 </Genre>
             </Puzzler>  
         </PuzzlersAndParty>
     </TypeOfGame>
-    <TypeOfGame cathegory = 5 > 
+    <TypeOfGame id = 5 > 
         <Platformer>
             <2D>
                 <Genre>
